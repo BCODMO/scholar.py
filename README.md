@@ -1,3 +1,13 @@
+
+Discover DOIs mentioned in articles
+-----------------------------------
+
+```
+virtualenv env
+pip install beautifulsoup4
+python scholar.py --all "10.1575/1912/6421"
+```
+
 scholar.py
 ==========
 
